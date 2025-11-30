@@ -1,6 +1,10 @@
 # Stash 下载软件教程分享
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="Stash" src="https://github.com/user-attachments/assets/b01e8c64-c215-477c-9018-d08b5b1d9d09" />
+</div>
+<br>
 
 ## :memo: Stash 节点资源
 
